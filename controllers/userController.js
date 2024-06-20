@@ -73,5 +73,17 @@ const loginUser = async (req, res) => {
     res.status(error.status || 500).json({ error: error.message });
   }
 };
+//get user details
 
-module.exports = { registerUser, loginUser };
+const getUserDetails = async (req, res) => {
+  const { userId } = req.user;
+  try {
+    const user = await USER.findById({ _id: userId }).select("-password");
+    res.status(200).json({ success: true, user });
+  } catch (error) {
+    console.log(error.message);
+    res.status(error.status || 500).json({ error: error.message });
+  }
+};
+
+module.exports = { registerUser, loginUser, getUserDetails };

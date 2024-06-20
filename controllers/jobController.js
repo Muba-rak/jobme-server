@@ -101,8 +101,8 @@ const applyForJob = async (req, res) => {
       .status(200)
       .json({ success: true, message: "Application successful", user });
   } catch (error) {
-    console.log(error);
-    res.json(error?.message);
+    console.log(error.message);
+    res.status(400).json(error?.message);
   }
 };
 // get all users applied jobs
