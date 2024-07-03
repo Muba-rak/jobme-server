@@ -105,7 +105,7 @@
     "companyName": "Financial Insights",
     "mode": "remote",
     "salaryRange": "65 - 85",
-    "location": "Remote",
+    "location": "Abuja",
     "jobDescription": "We are seeking a data analyst to help us analyze financial data.  Involved in collecting, processing, and performing statistical analyses on large datasets to discover useful information, suggest conclusions, and support decision-making. It encompasses various techniques under various umbrellas, such as descriptive statistics, exploratory data analysis (EDA), and inferential statistics, to interpret and understand the patterns and behaviors within data",
     "dutiesResponsibilities": [
       "Analyze financial data",
@@ -123,5 +123,246 @@
     "experience": "3+",
     "jobType": "fulltime",
     "industry": "Finance"
+  },
+
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=CodeWorks+Ltd&colorpalette=grayscale",
+    "jobTitle": "Front-End Developer",
+    "companyName": "CodeWorks Ltd.",
+    "mode": "remote",
+    "salaryRange": "70 - 90",
+    "location": "Belgium",
+    "jobDescription": "Seeking a skilled front-end developer with a passion for creating user-friendly web applications. Must be proficient in React and Angular. 2+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop user-facing features",
+      "Ensure the technical feasibility of UI/UX designs",
+      "Optimize applications for maximum speed",
+      "Collaborate with back-end developers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React and Angular",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "2+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Innovative+Web+Solutions&colorpalette=grayscale",
+    "jobTitle": "Full-Stack Developer",
+    "companyName": "Innovative Web Solutions",
+    "mode": "remote",
+    "salaryRange": "85 - 105",
+    "location": "New York, NY",
+    "jobDescription": "We are looking for a full-stack developer to join our team and work on cutting-edge web applications. 4+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Design and develop front-end and back-end components",
+      "Work with UI/UX designers",
+      "Optimize applications for speed and scalability",
+      "Collaborate with product managers and other engineers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React, Node.js, and MongoDB",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Web+Tech+Corp&colorpalette=grayscale",
+    "jobTitle": "Backend Developer",
+    "companyName": "Web Tech Corp.",
+    "mode": "remote",
+    "salaryRange": "80 - 100",
+    "location": "Dubai",
+    "jobDescription": "Join our team as a backend developer to create robust and scalable web applications. 3+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain server-side logic",
+      "Integrate front-end elements with server-side logic",
+      "Write reusable, testable, and efficient code",
+      "Collaborate with front-end developers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, Node.js",
+      "Experience with Express.js and MongoDB",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "3+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=NextGen+Web+Developers&colorpalette=grayscale",
+    "jobTitle": "React Developer",
+    "companyName": "NextGen Web Developers",
+    "mode": "remote",
+    "salaryRange": "75 - 95",
+    "location": "Lagos, Nigeria",
+    "jobDescription": "Seeking a React developer to build dynamic web applications. 2+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain web applications using React",
+      "Collaborate with designers and back-end developers",
+      "Ensure responsiveness and performance of applications",
+      "Participate in code reviews"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React and Redux",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "2+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Tech+Web+Solutions&colorpalette=grayscale",
+    "jobTitle": "Angular Developer",
+    "companyName": "Tech Web Solutions",
+    "mode": "remote",
+    "salaryRange": "70 - 90",
+    "location": "London",
+    "jobDescription": "Looking for an Angular developer to create high-performance web applications. 3+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain web applications using Angular",
+      "Work with back-end developers",
+      "Optimize applications for speed and scalability",
+      "Collaborate with product managers and designers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with Angular and TypeScript",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "3+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Digital+Innovators&colorpalette=grayscale",
+    "jobTitle": "Vue.js Developer",
+    "companyName": "Digital Innovators",
+    "mode": "remote",
+    "salaryRange": "75 - 95",
+    "location": "Los Angeles",
+    "jobDescription": "Seeking a Vue.js developer to build and maintain web applications. 2+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain web applications using Vue.js",
+      "Collaborate with back-end developers",
+      "Optimize applications for speed and scalability",
+      "Participate in code reviews"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with Vue.js and Vuex",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "2+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Web+Engineers+Inc&colorpalette=grayscale",
+    "jobTitle": "JavaScript Developer",
+    "companyName": "Web Engineers Inc.",
+    "mode": "remote",
+    "salaryRange": "70 - 90",
+    "location": "Silicon Valley",
+    "jobDescription": "We are looking for a JavaScript developer to join our team and work on innovative web applications. 3+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain web applications using JavaScript",
+      "Collaborate with cross-functional teams",
+      "Ensure responsiveness and performance of applications",
+      "Write and maintain technical documentation"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React or Angular",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "3+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Elite+Web+Solutions&colorpalette=grayscale",
+    "jobTitle": "Node.js Developer",
+    "companyName": "Elite Web Solutions",
+    "mode": "remote",
+    "salaryRange": "80 - 100",
+    "location": "Germany",
+    "jobDescription": "Join our team as a Node.js developer to build scalable server-side applications. 3+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain server-side applications",
+      "Integrate front-end elements with server-side logic",
+      "Write reusable, testable, and efficient code",
+      "Collaborate with front-end developers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, Node.js",
+      "Experience with Express.js and MongoDB",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "3+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Modern+Web+Technologies&colorpalette=grayscale",
+    "jobTitle": "Full-Stack Engineer",
+    "companyName": "Modern Web Technologies",
+    "mode": "remote",
+    "salaryRange": "85 - 105",
+    "location": "Lagos, Nigeria",
+    "jobDescription": "We are looking for a full-stack engineer to join our team and work on cutting-edge web applications. 4+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Design and develop front-end and back-end components",
+      "Work with UI/UX designers",
+      "Optimize applications for speed and scalability",
+      "Collaborate with product managers and other engineers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React, Node.js, and MongoDB",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://dynamic.brandcrowd.com/asset/logo/119bf46f-02e2-49e5-a829-a18562a58a6e/logo-search-grid-1x?logoTemplateVersion=3&v=638525957419830000&text=Web+Innovations+Co&colorpalette=grayscale",
+    "jobTitle": "React Native Developer",
+    "companyName": "Web Innovations Co.",
+    "mode": "remote",
+    "salaryRange": "75 - 95",
+    "location": "Miami",
+    "jobDescription": "We are seeking a React Native developer to build mobile applications for our clients. 2+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain mobile applications using React Native",
+      "Collaborate with cross-functional teams",
+      "Ensure responsiveness and performance of applications",
+      "Write and maintain technical documentation"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React Native",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "2+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
   }
 ]
