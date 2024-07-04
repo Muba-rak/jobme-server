@@ -19,7 +19,7 @@ const jobApplicationSchema = new Schema(
       enum: [
         "applied",
         "interview",
-        "offered",
+        "offer",
         "hired",
         "not hired",
         "not interested",
