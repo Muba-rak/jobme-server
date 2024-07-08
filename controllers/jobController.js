@@ -1,6 +1,6 @@
 const JOB = require("../models/job");
 const USER = require("../models/user");
-//get all job
+//get all jobnlondon lon LONDON LoNDoN
 
 const getAllJobs = async (req, res) => {
   const { location, jobType, mode, industry } = req.query;
@@ -33,6 +33,7 @@ const getAllJobs = async (req, res) => {
       currentPage: page,
       totalPages,
       totalJobs,
+      numOfJobs: jobs.length,
       jobs,
     });
   } catch (error) {
@@ -54,7 +55,7 @@ const getLatestJobs = async (req, res) => {
     res.json(error);
   }
 };
-// get a single job - related job
+// get a single job - related job //$eq
 const getSingleJob = async (req, res) => {
   const { jobId } = req.params;
 
@@ -64,7 +65,9 @@ const getSingleJob = async (req, res) => {
     const similarJobs = await JOB.find({
       _id: { $ne: jobId }, // Exclude the current job
       industry: job.industry,
-    }).limit(3);
+    })
+      .sort("-createdAt")
+      .limit(3);
 
     res.status(200).json({ success: true, job, similarJobs });
   } catch (error) {
@@ -88,6 +91,7 @@ const applyForJob = async (req, res) => {
     if (!job) {
       throw new Error("Job not found");
     }
+    // [ 1, 2]
     const alreadyApplied = user.jobsApplied.find(
       (application) => application.job.toString() === jobId
     );
@@ -113,7 +117,13 @@ const getUsersAppliedJobs = async (req, res) => {
       "jobsApplied.job"
     );
     const appliedJobs = user.jobsApplied;
-    res.status(200).json({ success: true, jobs: appliedJobs });
+    res
+      .status(200)
+      .json({
+        success: true,
+        numOfJobs: appliedJobs.length,
+        jobs: appliedJobs,
+      });
   } catch (error) {
     console.log(error);
     res.json(error.message);

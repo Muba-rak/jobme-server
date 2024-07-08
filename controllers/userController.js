@@ -78,7 +78,9 @@ const loginUser = async (req, res) => {
 const getUserDetails = async (req, res) => {
   const { userId } = req.user;
   try {
-    const user = await USER.findById({ _id: userId }).select("-password");
+    const user = await USER.findById({ _id: userId }).select(
+      "-password -jobsApplied"
+    );
     res.status(200).json({ success: true, user });
   } catch (error) {
     console.log(error.message);

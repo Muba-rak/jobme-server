@@ -5,7 +5,7 @@ const authentication = (req, res, next) => {
 
   try {
     if (!authHeader || !authHeader.startsWith("Bearer ")) {
-      return res.status(401).json({ err: "Invalid Authentication" });
+      return res.status(401).json({ error: "Invalid Authentication" });
     }
 
     const token = authHeader.split(" ")[1];
@@ -14,7 +14,7 @@ const authentication = (req, res, next) => {
     next();
   } catch (error) {
     console.log(error);
-    return res.status(403).json({ err: "authentication failed" });
+    return res.status(403).json({ error: "authentication failed" });
   }
 };
 
