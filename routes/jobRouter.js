@@ -8,9 +8,11 @@ const {
   applyForJob,
   getUsersAppliedJobs,
   updateJobStatus,
+  getUniqueLocations,
 } = require("../controllers/jobController");
 
 router.route("/").get(getAllJobs).post(createJob);
+router.get("/locations", getUniqueLocations);
 router.get("/latest", getLatestJobs);
 router.post("/apply/:jobId", auth, applyForJob);
 router.get("/user", auth, getUsersAppliedJobs);
