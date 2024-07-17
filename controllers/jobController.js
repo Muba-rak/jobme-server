@@ -161,10 +161,21 @@ const updateJobStatus = async (req, res) => {
 const getUniqueLocations = async (req, res) => {
   try {
     const jobLocations = await JOB.find().select("location");
+    const jobIndustries = await JOB.find().select("industry");
     const uniqueLocations = [
       ...new Set(jobLocations.map((job) => job.location)),
     ].sort();
-    res.status(200).json({ success: true, location: uniqueLocations });
+
+    const uniqueIndustries = [
+      ...new Set(jobIndustries.map((job) => job.industry)),
+    ].sort();
+    res
+      .status(200)
+      .json({
+        success: true,
+        location: uniqueLocations,
+        industries: uniqueIndustries,
+      });
   } catch (error) {
     console.log(error);
   }

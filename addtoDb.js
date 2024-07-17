@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 const addJobs = async () => {
   try {
     await mongoose.connect(process.env.MONGO_URL, { dbName: "jobme" });
-    await JOBS.deleteMany();
+    // await JOBS.deleteMany();
     await JOBS.create(jsonJobs);
     console.log("Jobs added");
     process.exit(0);

@@ -1,0 +1,124 @@
+[
+  {
+    "logo": "https://asset.brandfetch.io/iddYbQIdlK/idN21BaY-U.jpeg",
+    "jobTitle": "Product Designer",
+    "companyName": "Flutterwave",
+    "mode": "hybrid",
+    "salaryRange": "70 - 90",
+    "location": "Lagos, Nigeria",
+    "jobDescription": "Flutterwave is seeking a talented Product Designer to create user-centric designs for our financial products. 3+ years of design experience required.",
+    "dutiesResponsibilities": [
+      "Design user interfaces for web and mobile applications",
+      "Conduct user research and usability testing",
+      "Create wireframes, prototypes, and high-fidelity designs",
+      "Collaborate with product managers and developers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in design tools such as Figma, Sketch, or Adobe XD",
+      "Experience with user research and usability testing",
+      "Strong visual and interaction design skills",
+      "Excellent communication and teamwork skills",
+      "work with canva"
+    ],
+    "experience": "3+",
+    "jobType": "fulltime",
+    "industry": "design"
+  },
+  {
+    "logo": "https://static-00.iconduck.com/assets.00/paystack-icon-512x504-w7v8l6as.png",
+    "jobTitle": "UI/UX Designer",
+    "companyName": "Paystack",
+    "mode": "remote",
+    "salaryRange": "80 - 110",
+    "location": "Lagos, Nigeria",
+    "jobDescription": "Paystack is looking for a UI/UX Designer to craft intuitive user experiences for our payment solutions. 4+ years of design experience required.",
+    "dutiesResponsibilities": [
+      "Design user interfaces for web and mobile applications",
+      "Conduct user research and usability testing",
+      "Create wireframes, prototypes, and high-fidelity designs",
+      "Collaborate with product managers and developers",
+      "Conduct product research and usability testing"
+    ],
+    "skillsQualifications": [
+      "Proficiency in design tools such as Figma, Sketch, or Adobe XD",
+      "Experience with user research and usability testing",
+      "Strong visual and interaction design skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "design"
+  },
+  {
+    "logo": "https://group-live.jumia.is/images/press/3by2/logo-jumia-group.png",
+    "jobTitle": "Frontend Developer",
+    "companyName": "Jumia",
+    "mode": "on-site",
+    "salaryRange": "75 - 100",
+    "location": "Lagos, Nigeria",
+    "jobDescription": "Jumia is seeking a Frontend Developer to create and maintain user-friendly web applications. 3+ years of frontend development experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain web applications",
+      "Collaborate with designers and backend developers",
+      "Ensure responsive design and cross-browser compatibility",
+      "Participate in code reviews and technical discussions"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React or Angular",
+      "Strong problem-solving skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "3+",
+    "jobType": "fulltime",
+    "industry": "software"
+  },
+  {
+    "logo": "https://www.pngfind.com/pngs/m/670-6707116_konga-coupons-cashback-and-discount-codes-konga-com-hd.png",
+    "jobTitle": "DevOps Engineer",
+    "companyName": "Konga",
+    "mode": "remote",
+    "salaryRange": "80 - 110",
+    "location": "Lagos, Nigeria",
+    "jobDescription": "Konga is looking for a DevOps Engineer to streamline our deployment processes and improve system reliability. 3+ years of DevOps experience required.",
+    "dutiesResponsibilities": [
+      "Manage and automate deployment pipelines",
+      "Monitor and improve system performance",
+      "Collaborate with development and operations teams",
+      "Ensure security and compliance"
+    ],
+    "skillsQualifications": [
+      "Proficiency with CI/CD tools like Jenkins and GitLab",
+      "Experience with cloud platforms like AWS and Azure",
+      "Strong scripting skills in Bash, Python, or similar",
+      "Excellent problem-solving and communication skills"
+    ],
+    "experience": "3+",
+    "jobType": "fulltime",
+    "industry": "software"
+  },
+  {
+    "logo": "https://seeklogo.com/images/A/andela-logo-47119C1AE9-seeklogo.com.png",
+    "jobTitle": "Product Manager",
+    "companyName": "Andela",
+    "mode": "hybrid",
+    "salaryRange": "85 - 110",
+    "location": "Lagos, Nigeria",
+    "jobDescription": "Andela is seeking a Product Manager to lead the development and launch of innovative products. 4+ years of product management experience required.",
+    "dutiesResponsibilities": [
+      "Define product vision and strategy",
+      "Collaborate with cross-functional teams",
+      "Analyze market trends and user feedback",
+      "Manage product lifecycle from concept to launch"
+    ],
+    "skillsQualifications": [
+      "Experience with product management tools like JIRA and Trello",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and leadership skills",
+      "Ability to work in a fast-paced environment"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "software"
+  }
+]
